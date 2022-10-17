@@ -1,0 +1,1510 @@
+Time: 0
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(6, 4, 5)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(16, 5, 5)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(22, 5, 2)
+Waiting:(23, 3, 2)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(34, 3, 2)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Waiting:(49, 3, 5)
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 1
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(6, 4, 5)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(16, 5, 5)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(22, 5, 2)
+Waiting:(23, 3, 2)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(34, 3, 2)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Waiting:(49, 3, 5)
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 2
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(6, 4, 5)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(16, 5, 5)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(22, 5, 2)
+Waiting:(23, 3, 2)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(34, 3, 2)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Waiting:(49, 3, 5)
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 3
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(6, 4, 5)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(16, 5, 5)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(22, 5, 2)
+Dispatched:(23, 3, 2)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Dispatched:(34, 3, 2)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Dispatched:(49, 3, 5)
+Queue 0:[(23, 3, 2)] 
+Queue 1:[(34, 3, 2)] 
+Queue 2:[(49, 3, 5)] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 4
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Dispatched:(6, 4, 5)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(16, 5, 5)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(22, 5, 2)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Queue 0:[(23, 3, 1)] 
+Queue 1:[(34, 3, 1)] 
+Queue 2:[(49, 3, 4)] 
+Queue 3:[(6, 4, 5)] 
+Queue 4:[] 
+Time: 5
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Dispatched:(16, 5, 5)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Dispatched:(22, 5, 2)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Queue 0:[(22, 5, 2)] 
+Queue 1:[] 
+Queue 2:[(49, 3, 3)] 
+Queue 3:[(6, 4, 4)] 
+Queue 4:[(16, 5, 5)] 
+Time: 6
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Dispatched:(41, 6, 4)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Queue 0:[(22, 5, 1)] 
+Queue 1:[(41, 6, 4)] 
+Queue 2:[(49, 3, 2)] 
+Queue 3:[(6, 4, 3)] 
+Queue 4:[(16, 5, 4)] 
+Time: 7
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Queue 0:[] 
+Queue 1:[(41, 6, 3)] 
+Queue 2:[(49, 3, 1)] 
+Queue 3:[(6, 4, 2)] 
+Queue 4:[(16, 5, 3)] 
+Time: 8
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Dispatched:(36, 8, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Waiting:(48, 9, 3)
+Queue 0:[(36, 8, 4)] 
+Queue 1:[(41, 6, 2)] 
+Queue 2:[] 
+Queue 3:[(6, 4, 1)] 
+Queue 4:[(16, 5, 2)] 
+Time: 9
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Dispatched:(17, 9, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(40, 10, 6)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Dispatched:(48, 9, 3)
+Queue 0:[(36, 8, 3), (48, 9, 3)] 
+Queue 1:[(41, 6, 1)] 
+Queue 2:[(17, 9, 6)] 
+Queue 3:[] 
+Queue 4:[(16, 5, 1)] 
+Time: 10
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Dispatched:(40, 10, 6)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Queue 0:[(36, 8, 2), (48, 9, 3)] 
+Queue 1:[] 
+Queue 2:[(17, 9, 5)] 
+Queue 3:[(40, 10, 6)] 
+Queue 4:[] 
+Time: 11
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Queue 0:[(36, 8, 1), (48, 9, 3)] 
+Queue 1:[] 
+Queue 2:[(17, 9, 4)] 
+Queue 3:[(40, 10, 5)] 
+Queue 4:[] 
+Time: 12
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Dispatched:(3, 12, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Waiting:(47, 13, 3)
+Queue 0:[(48, 9, 3)] 
+Queue 1:[(3, 12, 5)] 
+Queue 2:[(17, 9, 3)] 
+Queue 3:[(40, 10, 4)] 
+Queue 4:[] 
+Time: 13
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Dispatched:(24, 13, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Dispatched:(47, 13, 3)
+Queue 0:[(48, 9, 2), (47, 13, 3)] 
+Queue 1:[(3, 12, 4)] 
+Queue 2:[(17, 9, 2)] 
+Queue 3:[(40, 10, 3)] 
+Queue 4:[(24, 13, 1)] 
+Time: 14
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(48, 9, 1), (47, 13, 3)] 
+Queue 1:[(3, 12, 3)] 
+Queue 2:[(17, 9, 1)] 
+Queue 3:[(40, 10, 2)] 
+Queue 4:[] 
+Time: 15
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(15, 16, 6)
+Waiting:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Dispatched:(42, 15, 4)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(47, 13, 3)] 
+Queue 1:[(3, 12, 2)] 
+Queue 2:[] 
+Queue 3:[(40, 10, 1)] 
+Queue 4:[(42, 15, 4)] 
+Time: 16
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Dispatched:(15, 16, 6)
+Dispatched:(18, 16, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Dispatched:(32, 16, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(47, 13, 2), (18, 16, 3)] 
+Queue 1:[(3, 12, 1), (32, 16, 6)] 
+Queue 2:[(15, 16, 6)] 
+Queue 3:[] 
+Queue 4:[(42, 15, 3)] 
+Time: 17
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(47, 13, 1), (18, 16, 3)] 
+Queue 1:[(32, 16, 6)] 
+Queue 2:[(15, 16, 5)] 
+Queue 3:[] 
+Queue 4:[(42, 15, 2)] 
+Time: 18
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Dispatched:(25, 18, 3)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(31, 19, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(18, 16, 3)] 
+Queue 1:[(32, 16, 5)] 
+Queue 2:[(15, 16, 4)] 
+Queue 3:[(25, 18, 3)] 
+Queue 4:[(42, 15, 1)] 
+Time: 19
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Dispatched:(28, 19, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Dispatched:(31, 19, 6)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(18, 16, 2), (28, 19, 5)] 
+Queue 1:[(32, 16, 4), (31, 19, 6)] 
+Queue 2:[(15, 16, 3)] 
+Queue 3:[(25, 18, 2)] 
+Queue 4:[] 
+Time: 20
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Dispatched:(7, 20, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(14, 21, 4)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(18, 16, 1), (28, 19, 5)] 
+Queue 1:[(32, 16, 3), (31, 19, 6)] 
+Queue 2:[(15, 16, 2)] 
+Queue 3:[(25, 18, 1)] 
+Queue 4:[(7, 20, 1)] 
+Time: 21
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(4, 22, 6)
+Waiting:(5, 22, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Dispatched:(14, 21, 4)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Dispatched:(26, 21, 2)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(28, 19, 5)] 
+Queue 1:[(32, 16, 2), (31, 19, 6)] 
+Queue 2:[(15, 16, 1), (14, 21, 4)] 
+Queue 3:[(26, 21, 2)] 
+Queue 4:[] 
+Time: 22
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Dispatched:(4, 22, 6)
+Dispatched:(5, 22, 1)
+Waiting:(8, 23, 4)
+Waiting:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Dispatched:(33, 22, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(28, 19, 4), (5, 22, 1)] 
+Queue 1:[(32, 16, 1), (31, 19, 6)] 
+Queue 2:[(14, 21, 4)] 
+Queue 3:[(26, 21, 1), (33, 22, 4)] 
+Queue 4:[(4, 22, 6)] 
+Time: 23
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Dispatched:(8, 23, 4)
+Dispatched:(9, 23, 6)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(28, 19, 3), (5, 22, 1)] 
+Queue 1:[(31, 19, 6)] 
+Queue 2:[(14, 21, 3), (8, 23, 4)] 
+Queue 3:[(33, 22, 4)] 
+Queue 4:[(4, 22, 5), (9, 23, 6)] 
+Time: 24
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(28, 19, 2), (5, 22, 1)] 
+Queue 1:[(31, 19, 5)] 
+Queue 2:[(14, 21, 2), (8, 23, 4)] 
+Queue 3:[(33, 22, 3)] 
+Queue 4:[(4, 22, 4), (9, 23, 6)] 
+Time: 25
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(28, 19, 1), (5, 22, 1)] 
+Queue 1:[(31, 19, 4)] 
+Queue 2:[(14, 21, 1), (8, 23, 4)] 
+Queue 3:[(33, 22, 2)] 
+Queue 4:[(4, 22, 3), (9, 23, 6)] 
+Time: 26
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Dispatched:(12, 26, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(5, 22, 1)] 
+Queue 1:[(31, 19, 3), (12, 26, 2)] 
+Queue 2:[(8, 23, 4)] 
+Queue 3:[(33, 22, 1)] 
+Queue 4:[(4, 22, 2), (9, 23, 6)] 
+Time: 27
+Waiting:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[] 
+Queue 1:[(31, 19, 2), (12, 26, 2)] 
+Queue 2:[(8, 23, 3)] 
+Queue 3:[] 
+Queue 4:[(4, 22, 1), (9, 23, 6)] 
+Time: 28
+Dispatched:(0, 28, 5)
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Waiting:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Dispatched:(44, 28, 1)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(0, 28, 5)] 
+Queue 1:[(31, 19, 1), (12, 26, 2)] 
+Queue 2:[(8, 23, 2)] 
+Queue 3:[(44, 28, 1)] 
+Queue 4:[(9, 23, 6)] 
+Time: 29
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(11, 30, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(35, 30, 4)
+Dispatched:(37, 29, 6)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(0, 28, 4), (37, 29, 6)] 
+Queue 1:[(12, 26, 2)] 
+Queue 2:[(8, 23, 1)] 
+Queue 3:[] 
+Queue 4:[(9, 23, 5)] 
+Time: 30
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Dispatched:(11, 30, 2)
+Waiting:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Dispatched:(35, 30, 4)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(0, 28, 3), (37, 29, 6)] 
+Queue 1:[(12, 26, 1), (35, 30, 4)] 
+Queue 2:[] 
+Queue 3:[(11, 30, 2)] 
+Queue 4:[(9, 23, 4)] 
+Time: 31
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Dispatched:(13, 31, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Dispatched:(27, 31, 5)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(43, 32, 2)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(0, 28, 2), (37, 29, 6)] 
+Queue 1:[(35, 30, 4)] 
+Queue 2:[(13, 31, 3), (27, 31, 5)] 
+Queue 3:[(11, 30, 1)] 
+Queue 4:[(9, 23, 3)] 
+Time: 32
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Dispatched:(43, 32, 2)
+Waiting:(45, 37, 1)
+Waiting:(46, 33, 3)
+Queue 0:[(0, 28, 1), (37, 29, 6)] 
+Queue 1:[(35, 30, 3), (43, 32, 2)] 
+Queue 2:[(13, 31, 2), (27, 31, 5)] 
+Queue 3:[] 
+Queue 4:[(9, 23, 2)] 
+Time: 33
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(21, 34, 1)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(38, 37, 5)
+Waiting:(39, 34, 2)
+Waiting:(45, 37, 1)
+Dispatched:(46, 33, 3)
+Queue 0:[(37, 29, 6)] 
+Queue 1:[(35, 30, 2), (43, 32, 2)] 
+Queue 2:[(13, 31, 1), (27, 31, 5)] 
+Queue 3:[(46, 33, 3)] 
+Queue 4:[(9, 23, 1)] 
+Time: 34
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Dispatched:(21, 34, 1)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(38, 37, 5)
+Dispatched:(39, 34, 2)
+Waiting:(45, 37, 1)
+Queue 0:[(37, 29, 5), (21, 34, 1)] 
+Queue 1:[(35, 30, 1), (43, 32, 2)] 
+Queue 2:[(27, 31, 5)] 
+Queue 3:[(46, 33, 2), (39, 34, 2)] 
+Queue 4:[] 
+Time: 35
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Waiting:(29, 36, 1)
+Waiting:(30, 36, 4)
+Waiting:(38, 37, 5)
+Waiting:(45, 37, 1)
+Queue 0:[(37, 29, 4), (21, 34, 1)] 
+Queue 1:[(43, 32, 2)] 
+Queue 2:[(27, 31, 4)] 
+Queue 3:[(46, 33, 1), (39, 34, 2)] 
+Queue 4:[] 
+Time: 36
+Waiting:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Dispatched:(29, 36, 1)
+Dispatched:(30, 36, 4)
+Waiting:(38, 37, 5)
+Waiting:(45, 37, 1)
+Queue 0:[(37, 29, 3), (21, 34, 1)] 
+Queue 1:[(43, 32, 1), (30, 36, 4)] 
+Queue 2:[(27, 31, 3)] 
+Queue 3:[(39, 34, 2)] 
+Queue 4:[(29, 36, 1)] 
+Time: 37
+Dispatched:(1, 37, 2)
+Waiting:(2, 38, 5)
+Waiting:(10, 39, 3)
+Waiting:(19, 38, 2)
+Waiting:(20, 38, 1)
+Dispatched:(38, 37, 5)
+Dispatched:(45, 37, 1)
+Queue 0:[(37, 29, 2), (21, 34, 1)] 
+Queue 1:[(30, 36, 4)] 
+Queue 2:[(27, 31, 2), (1, 37, 2)] 
+Queue 3:[(39, 34, 1), (38, 37, 5)] 
+Queue 4:[(45, 37, 1)] 
+Time: 38
+Dispatched:(2, 38, 5)
+Waiting:(10, 39, 3)
+Dispatched:(19, 38, 2)
+Dispatched:(20, 38, 1)
+Queue 0:[(37, 29, 1), (21, 34, 1), (20, 38, 1)] 
+Queue 1:[(30, 36, 3), (2, 38, 5)] 
+Queue 2:[(27, 31, 1), (1, 37, 2)] 
+Queue 3:[(38, 37, 5)] 
+Queue 4:[(19, 38, 2)] 
+Time: 39
+Dispatched:(10, 39, 3)
+Queue 0:[(21, 34, 1), (20, 38, 1)] 
+Queue 1:[(30, 36, 2), (2, 38, 5)] 
+Queue 2:[(1, 37, 2)] 
+Queue 3:[(38, 37, 4), (10, 39, 3)] 
+Queue 4:[(19, 38, 1)] 
+Time: 40
+Queue 0:[(20, 38, 1)] 
+Queue 1:[(30, 36, 1), (2, 38, 5)] 
+Queue 2:[(1, 37, 1)] 
+Queue 3:[(38, 37, 3), (10, 39, 3)] 
+Queue 4:[] 
+Time: 41
+Queue 0:[] 
+Queue 1:[(2, 38, 5)] 
+Queue 2:[] 
+Queue 3:[(38, 37, 2), (10, 39, 3)] 
+Queue 4:[] 
+Time: 42
+Queue 0:[] 
+Queue 1:[(2, 38, 4)] 
+Queue 2:[] 
+Queue 3:[(38, 37, 1), (10, 39, 3)] 
+Queue 4:[] 
+Time: 43
+Queue 0:[] 
+Queue 1:[(2, 38, 3)] 
+Queue 2:[] 
+Queue 3:[(10, 39, 3)] 
+Queue 4:[] 
+Time: 44
+Queue 0:[] 
+Queue 1:[(2, 38, 2)] 
+Queue 2:[] 
+Queue 3:[(10, 39, 2)] 
+Queue 4:[] 
+Time: 45
+Queue 0:[] 
+Queue 1:[(2, 38, 1)] 
+Queue 2:[] 
+Queue 3:[(10, 39, 1)] 
+Queue 4:[] 
+Time: 46
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 47
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 48
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 49
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 50
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 51
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 52
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 53
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 54
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 55
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 56
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 57
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 58
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Time: 59
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Queue 3:[] 
+Queue 4:[] 
+Average service time:3.48
+Average waiting time:1.24

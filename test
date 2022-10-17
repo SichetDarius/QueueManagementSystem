@@ -1,0 +1,102 @@
+Time: 0
+Waiting:(0, 4, 4)
+Waiting:(1, 4, 4)
+Waiting:(2, 2, 3)
+Waiting:(3, 2, 2)
+Waiting:(4, 3, 4)
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 1
+Waiting:(0, 4, 4)
+Waiting:(1, 4, 4)
+Waiting:(2, 2, 3)
+Waiting:(3, 2, 2)
+Waiting:(4, 3, 4)
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 2
+Waiting:(0, 4, 4)
+Waiting:(1, 4, 4)
+Dispatched:(2, 2, 3)
+Dispatched:(3, 2, 2)
+Waiting:(4, 3, 4)
+Queue 0:[(2, 2, 3)] 
+Queue 1:[(3, 2, 2)] 
+Queue 2:[] 
+Time: 3
+Waiting:(0, 4, 4)
+Waiting:(1, 4, 4)
+Dispatched:(4, 3, 4)
+Queue 0:[(2, 2, 2)] 
+Queue 1:[(3, 2, 1)] 
+Queue 2:[(4, 3, 4)] 
+Time: 4
+Dispatched:(0, 4, 4)
+Dispatched:(1, 4, 4)
+Queue 0:[(2, 2, 1), (1, 4, 4)] 
+Queue 1:[(0, 4, 4)] 
+Queue 2:[(4, 3, 3)] 
+Time: 5
+Queue 0:[(1, 4, 4)] 
+Queue 1:[(0, 4, 3)] 
+Queue 2:[(4, 3, 2)] 
+Time: 6
+Queue 0:[(1, 4, 3)] 
+Queue 1:[(0, 4, 2)] 
+Queue 2:[(4, 3, 1)] 
+Time: 7
+Queue 0:[(1, 4, 2)] 
+Queue 1:[(0, 4, 1)] 
+Queue 2:[] 
+Time: 8
+Queue 0:[(1, 4, 1)] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 9
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 10
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 11
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 12
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 13
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 14
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 15
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 16
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 17
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 18
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Time: 19
+Queue 0:[] 
+Queue 1:[] 
+Queue 2:[] 
+Average service time:3.4
+Average waiting time:0.2
